@@ -13,3 +13,4 @@ transportlidzeklus atbilstosas vietas.
 - [x] Mainit objekta augstuma pa Y
 - [x] Audio efekti
 
+Iepriekšaja spēles versija ir master zarā - fināla main zarā.
